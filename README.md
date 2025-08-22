@@ -12,7 +12,7 @@ For more background information, see this [blog post](https://helgeklein.com/blo
 
 ## Performing a Backup
 
-If you haven't set things up yet see the preparation section below.
+If you haven't set things up yet, see the [preparation section](#preparation-once-per-machine-you-want-to-backup) below.
 
 To perform a backup, run the script `copy_files.sh`:
 
